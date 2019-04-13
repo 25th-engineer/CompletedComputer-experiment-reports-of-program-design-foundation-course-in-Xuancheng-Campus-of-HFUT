@@ -1,2 +1,0 @@
-#合肥工业大学宣城校区程序设计基础课程上机实验报告（全，已完成）
-#Computer experiment reports of program design foundation course in Xuancheng Campus of Hefei University of Technology (complete,completed)
