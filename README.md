@@ -1,5 +1,5 @@
 # CompletedComputer-experiment-reports-of-program-design-foundation-course-in-Xuancheng-Campus-of-HFUT
->>>>##合肥工业大学宣城校区程序设计基础实验报告（全，已完成）-Computer experiment reports of program design foundation course in Xuancheng Campus of Hefei University of Technology (complete,completed)</br>
+>>>> ##合肥工业大学宣城校区程序设计基础实验报告（全，已完成）-Computer experiment reports of program design foundation course in Xuancheng Campus of Hefei University of Technology (complete,completed)</br>
 >>>>所有代码我都在Ubuntu 16.04 LTS下用CodeB::locks 16.10跑了一遍，有一些为了适应Linux环境而特意做了改动，比如：#include <windows.h>改为#include <unistd.h>，Sleeep(1000*60)改为sleep(60)。</br>
 >>>>如果发现代码有任何谬误，欢迎联系刁肥宅，邮箱:`u25th_engineer@163.com`。</br>
 >>>>我已经将所有代码与实验报告写到CSDN我的博客了，也可以在那参考：
