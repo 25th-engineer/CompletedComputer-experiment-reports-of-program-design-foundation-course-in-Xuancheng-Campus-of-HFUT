@@ -2,18 +2,19 @@
 >>>>合肥工业大学宣城校区程序设计基础实验报告（全，已完成）-Computer experiment reports of program design foundation course in Xuancheng Campus of Hefei University of Technology (complete,completed)</br>
 *****
 >>>>所有代码我都在Ubuntu 16.04 LTS下用CodeB::locks 16.10跑了一遍，有一些为了适应Linux环境而特意做了改动，比如：
+
 ```cpp
 #include <windows.h>
 ```
-改为</br>
+>>>>改为</br>
 ```cpp
 #include <unistd.h>
 ```
-
+>>>>将
 ```cpp
 Sleeep(1000*60)
 ```
-改为</br>
+>>>>改为</br>
 ```cpp
 sleep(60)
 ```
