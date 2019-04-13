@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1525497807 source:e:\documents\code\c++\exp10_1\main.cpp
+	"_set.h"
+
+1525421552 
+
+1525421552 source:e:\documents\code\c++\exp10_1\_set.cpp
+	"_set.h"
+
+1525497807 e:\documents\code\c++\exp10_1\_set.h
+	<iostream>
+	<cstdio>
+	<windows.h>
+
+1525497807 >
+
+1525421552 source:/home/u25th_engineer/桌面/exp10_1/_set.cpp
+	"_set.h"
+
+1525497807 /home/u25th_engineer/桌面/exp10_1/_set.h
+	<iostream>
+	<cstdio>
+	<windows.h>
+
+1525497807 source:/home/u25th_engineer/桌面/exp10_1/main.cpp
+	"_set.h"
+

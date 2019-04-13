@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1525497755 source:e:\documents\code\c++\exp10_3\main.cpp
+	"pen.h"
+	"pencil.h"
+	"sign_pen.h"
+	"writing_brushes.h"
+
+1525492272 source:e:\documents\code\c++\exp10_3\writing_instruments.cpp
+	"writing_instruments.h"
+
+1525497755 e:\documents\code\c++\exp10_3\writing_instruments.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1525493153 source:e:\documents\code\c++\exp10_3\pen.cpp
+	"pen.h"
+
+1525492041 e:\documents\code\c++\exp10_3\pen.h
+	"writing_instruments.h"
+
+1525494675 source:e:\documents\code\c++\exp10_3\pencil.cpp
+	"pencil.h"
+
+1525492650 e:\documents\code\c++\exp10_3\pencil.h
+	"writing_instruments.h"
+
+1525494812 source:e:\documents\code\c++\exp10_3\sign_pen.cpp
+	"sign_pen.h"
+
+1525494032 e:\documents\code\c++\exp10_3\sign_pen.h
+	"writing_instruments.h"
+
+1525497620 source:e:\documents\code\c++\exp10_3\writing_brushes.cpp
+	"writing_brushes.h"
+
+1525496929 e:\documents\code\c++\exp10_3\writing_brushes.h
+	"writing_instruments.h"
+	<cmath>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525320651 source:e:\documents\code\c++\exp_9_3\main.cpp
+	"_stack.h"
+
+1525320845 source:e:\documents\code\c++\exp_9_3\_stack.cpp
+	"_stack.h"
+
+1525320559 e:\documents\code\c++\exp_9_3\_stack.h
+	<iostream>
+

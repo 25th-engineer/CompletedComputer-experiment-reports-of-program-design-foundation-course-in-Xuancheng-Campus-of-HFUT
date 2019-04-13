@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525500674 source:e:\documents\code\c++\exp10_4\main.cpp
+	"_complex_number.h"
+
+1525486824 source:e:\documents\code\c++\exp10_4\_complex_number.cpp
+	"_complex_number.h"
+
+1525500111 e:\documents\code\c++\exp10_4\_complex_number.h
+	<iostream>
+	<cmath>
+	<windows.h>
+

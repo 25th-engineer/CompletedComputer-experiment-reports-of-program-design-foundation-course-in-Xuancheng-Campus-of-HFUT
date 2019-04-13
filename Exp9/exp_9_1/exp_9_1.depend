@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1525289940 source:e:\documents\code\c++\new_1\_circle.cpp
+	"_circle.h"
+	<iostream>
+
+1525289827 e:\documents\code\c++\new_1\_circle.h
+
+1525290127 source:e:\documents\code\c++\new_1\main.cpp
+	"_cylindrical.h"
+	<cstdio>
+
+1525289940 source:e:\documents\code\c++\new_1\_cylindrical.cpp
+	"_cylindrical.h"
+
+1525289395 e:\documents\code\c++\new_1\_cylindrical.h
+	"_circle.h"
+	"iostream"
+
+1525330450 source:e:\documents\code\c++\exp_9_1\main.cpp
+	"_cylindrical.h"
+	<cstdio>
+	<windows.h>
+
+1525289395 e:\documents\code\c++\exp_9_1\_cylindrical.h
+	"_circle.h"
+	"iostream"
+
+1525289827 e:\documents\code\c++\exp_9_1\_circle.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525331027 source:e:\documents\code\c++\exp9_3_2\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+

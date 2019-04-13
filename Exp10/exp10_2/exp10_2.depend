@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1525498629 source:e:\documents\code\c++\exp10_2\main.cpp
+	"Circle.h"
+	"Triangle.h"
+	"Rectangle.h"
+
+1525497868 source:e:\documents\code\c++\exp10_2\shape.cpp
+	"Shape.h"
+
+1525498528 e:\documents\code\c++\exp10_2\shape.h
+	<iostream>
+
+1525464113 source:e:\documents\code\c++\exp10_2\circle.cpp
+	"Circle.h"
+
+1525498176 e:\documents\code\c++\exp10_2\circle.h
+	"Shape.h"
+
+1525465874 source:e:\documents\code\c++\exp10_2\triangle.cpp
+	"Triangle.h"
+	<math.h>
+
+1525498596 e:\documents\code\c++\exp10_2\triangle.h
+	"Shape.h"
+	<cmath>
+
+1525498300 source:e:\documents\code\c++\exp10_2\rectangle.cpp
+	"Rectangle.h"
+
+1525498513 e:\documents\code\c++\exp10_2\rectangle.h
+	"Shape.h"
+

@@ -1,0 +1,238 @@
+obj1.number = 3
+Now obj_num = 1
+
+obj2.number = 4355776
+Now obj_num = 2
+
+obj3.number = 0
+Now obj_num = 3
+
+obj4.number = 6
+Now obj_num = 4
+
+The destructor has been called.
+Now obj_num = 3
+***********************************************************
+obj5.number = 19
+Now obj_num = 4
+
+The destructor has been called.
+obj6.number = 20
+Now obj_num = 4
+
+The destructor has been called.
+obj7.number = 21
+Now obj_num = 4
+
+The destructor has been called.
+obj8.number = 22
+Now obj_num = 4
+
+The destructor has been called.
+obj9.number = 23
+Now obj_num = 4
+
+The destructor has been called.
+obj10.number = 24
+Now obj_num = 4
+
+The destructor has been called.
+obj11.number = 25
+Now obj_num = 4
+
+The destructor has been called.
+obj12.number = 26
+Now obj_num = 4
+
+The destructor has been called.
+obj13.number = 27
+Now obj_num = 4
+
+The destructor has been called.
+obj14.number = 28
+Now obj_num = 4
+
+The destructor has been called.
+obj15.number = 29
+Now obj_num = 4
+
+The destructor has been called.
+obj16.number = 30
+Now obj_num = 4
+
+The destructor has been called.
+obj17.number = 31
+Now obj_num = 4
+
+The destructor has been called.
+obj18.number = 32
+Now obj_num = 4
+
+The destructor has been called.
+obj19.number = 33
+Now obj_num = 4
+
+The destructor has been called.
+obj20.number = 34
+Now obj_num = 4
+
+The destructor has been called.
+obj21.number = 35
+Now obj_num = 4
+
+The destructor has been called.
+obj22.number = 36
+Now obj_num = 4
+
+The destructor has been called.
+obj23.number = 37
+Now obj_num = 4
+
+The destructor has been called.
+obj24.number = 38
+Now obj_num = 4
+
+The destructor has been called.
+***********************************************************
+obj25.number = 26
+Now obj_num = 4
+
+obj26.number = 27
+Now obj_num = 5
+
+obj27.number = 28
+Now obj_num = 6
+
+obj28.number = 29
+Now obj_num = 7
+
+obj29.number = 30
+Now obj_num = 8
+
+obj30.number = 31
+Now obj_num = 9
+
+obj31.number = 32
+Now obj_num = 10
+
+obj32.number = 33
+Now obj_num = 11
+
+obj33.number = 34
+Now obj_num = 12
+
+obj34.number = 35
+Now obj_num = 13
+
+obj35.number = 36
+Now obj_num = 14
+
+obj36.number = 37
+Now obj_num = 15
+
+obj37.number = 38
+Now obj_num = 16
+
+obj38.number = 39
+Now obj_num = 17
+
+obj39.number = 40
+Now obj_num = 18
+
+obj40.number = 41
+Now obj_num = 19
+
+obj41.number = 42
+Now obj_num = 20
+
+obj42.number = 43
+Now obj_num = 21
+
+obj43.number = 44
+Now obj_num = 22
+
+obj44.number = 45
+Now obj_num = 23
+
+***********************************************************
+obj45.number = 29
+The destructor has been called.
+Now obj_num = 23
+
+obj46.number = 30
+The destructor has been called.
+Now obj_num = 23
+
+obj47.number = 31
+The destructor has been called.
+Now obj_num = 23
+
+obj48.number = 32
+The destructor has been called.
+Now obj_num = 23
+
+obj49.number = 33
+The destructor has been called.
+Now obj_num = 23
+
+obj50.number = 34
+The destructor has been called.
+Now obj_num = 23
+
+obj51.number = 35
+The destructor has been called.
+Now obj_num = 23
+
+obj52.number = 36
+The destructor has been called.
+Now obj_num = 23
+
+obj53.number = 37
+The destructor has been called.
+Now obj_num = 23
+
+obj54.number = 38
+The destructor has been called.
+Now obj_num = 23
+
+obj55.number = 39
+The destructor has been called.
+Now obj_num = 23
+
+obj56.number = 40
+The destructor has been called.
+Now obj_num = 23
+
+obj57.number = 41
+The destructor has been called.
+Now obj_num = 23
+
+obj58.number = 42
+The destructor has been called.
+Now obj_num = 23
+
+obj59.number = 43
+The destructor has been called.
+Now obj_num = 23
+
+obj60.number = 44
+The destructor has been called.
+Now obj_num = 23
+
+obj61.number = 45
+The destructor has been called.
+Now obj_num = 23
+
+obj62.number = 46
+The destructor has been called.
+Now obj_num = 23
+
+obj63.number = 47
+The destructor has been called.
+Now obj_num = 23
+
+obj64.number = 48
+The destructor has been called.
+Now obj_num = 23
+
+The screen will be closed in 60 seconds.
